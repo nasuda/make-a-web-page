@@ -1,0 +1,29 @@
+#section1 {
+  background-color: #5FCF80;
+  padding:40px;
+}
+.section2{
+  color:#8C9890;
+  text-align:center;
+  
+}
+.section3{
+  background-color:#F6F9FA;
+  color:#8C9890;
+  text-align:center;
+  padding:5px;
+  
+}
+h1 {
+  text-align:center;
+  color:white;
+}
+h2 {
+  text-align:center;
+  color:#384047;
+}
+.maincontent {
+  margin:40px;
+}
+
+
